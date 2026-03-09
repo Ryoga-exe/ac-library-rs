@@ -3,7 +3,7 @@ use crate::internal_scc;
 
 /// A 2-SAT Solver.
 ///
-/// For variables $x_0, x_1, \ldots, x_{N - 1}$ and clauses with from
+/// For variables $x_0, x_1, \ldots, x_{N - 1}$ and clauses with form
 ///
 /// \\[
 ///   (x_i = f) \lor (x_j = g)
