@@ -46,7 +46,7 @@ use std::{
 ///
 /// See the [module-level documentation] for more details.
 ///
-/// Returns a empty `Vec` if `a` or `b` is empty.
+/// Returns an empty `Vec` if `a` or `b` is empty.
 ///
 /// # Constraints
 ///
@@ -133,7 +133,7 @@ where
 ///
 /// See the [module-level documentation] for more details.
 ///
-/// Returns a empty `Vec` if `a` or `b` is empty.
+/// Returns an empty `Vec` if `a` or `b` is empty.
 ///
 /// # Constraints
 ///
@@ -206,7 +206,7 @@ where
 ///
 /// See the [module-level documentation] for more details.
 ///
-/// Returns a empty `Vec` if `a` or `b` is empty.
+/// Returns an empty `Vec` if `a` or `b` is empty.
 ///
 /// # Constraints
 ///
